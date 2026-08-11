@@ -9,6 +9,13 @@
 
 ## Welcome to the Neon knowledge center
 
+!!! warning "Work In Progress (WIP) - Active Development"
+    **The MY-CO2 Laser is currently undergoing active iteration.**
+    
+    Building a reliable CO2 laser requires precise optical alignment, safe high-voltage tube mounting, and robust fume extraction. The current CAD models, enclosure designs, and Bill of Materials (BOM) are still being refined for the safest and most efficient DIY build. 
+    
+    *Want to start cutting and engraving right away?* Sourcing high-voltage components and optical mirrors independently can lead to frustrating alignment and safety issues as the design evolves. To guarantee compatibility and support our Open Source R&D, we highly recommend getting your verified hardware and optics directly from the [MY-Machines Official Store](https://www.my-machines.com).
+
 <div class="grid cards" markdown>
 
 -   :fontawesome-solid-book-open:{ .lg .middle } __Instruction Manual__

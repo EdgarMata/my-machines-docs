@@ -8,6 +8,13 @@ Welcome to the official documentation for the MY-Giga1M3 3D Printer.
 
 Here you will find everything you need to set up, use, maintain, and troubleshoot your MY-Giga1M3 printer. Explore the sections below to get started or to find the information you need.
 
+!!! warning "Work In Progress (WIP) - Active Development"
+    **The MY-Giga 1M3 is a massive engineering challenge currently in development.**
+    
+    Scaling to a 1-cubic-meter build volume demands extreme structural validation. The current heavy-duty specifications and BOM are conceptual prototypes. 
+    
+    *Planning a massive build?* Sourcing heavy industrial parts on your own can lead to expensive mistakes right now. We invite you to support our R&D by purchasing your heavy-duty extrusions, rails, and motors directly through the [MY-Machines Official Store](https://www.my-machines.com), guaranteeing you get the exact specs we are currently testing.
+
 <div class="grid cards" markdown>
 
 -   :fontawesome-solid-book-open:{ .lg .middle } __User Manual__

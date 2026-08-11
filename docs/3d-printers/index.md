@@ -50,7 +50,7 @@ Choose your machine below to access our comprehensive ecosystem, featuring metic
     - [:fontawesome-solid-list: Bill of Materials](my-mini/bom/index.md)
     - [:fontawesome-solid-download: Firmware & STL](my-mini/downloads/index.md)
 
--   ![MY-Delta](/assets/images/image-placeholder.webp)
+-   ![MY-Delta](/assets/images/delta.webp)
 
     ---
 

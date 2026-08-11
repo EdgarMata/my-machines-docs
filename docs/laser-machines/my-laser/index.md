@@ -2,6 +2,13 @@
 
 Welcome to the **My-Laser** documentation hub. This machine is our versatile and highly accessible entry point into digital fabrication and laser engraving. Designed with the true DIY maker in mind, it combines accessible diode laser technology with 3D-printable components, making it the perfect project to start your laser CNC journey.
 
+!!! warning "Work In Progress (WIP) - Active Development"
+    **The MY-Laser Diode project is currently in the prototyping phase.**
+    
+    Our goal is to deliver a highly accessible, lightweight, yet rigid desktop laser engraver. The mechanical assemblies, diode mounting systems, and exact Bill of Materials (BOM) are actively being tweaked to maximize engraving precision and speed. 
+    
+    *Ready to bring your desktop projects to life?* Independent sourcing during this phase might result in mismatched belts, rails, or diode brackets. To ensure you get the exact hardware we are testing and to support our Open Source project, we highly recommend getting your components directly from the [MY-Machines Official Store](https://www.my-machines.com).
+
 ---
 
 ## Key Features

@@ -7,6 +7,13 @@
 ## Welcome to the official documentation for the MY-Mini 3D Printer.
 Here you will find all the information you need to set up, use, and troubleshoot your 3D printer.
 
+!!! warning "Work In Progress (WIP) - Active Development"
+    **The MY-Mini project is currently in the prototyping phase.**
+    
+    Our goal is to create the ultimate compact Maker 3D printer. CAD models, dimensions, and assembly steps are conceptual and subject to frequent design changes. 
+    
+    *Want to build along with us?* Independent sourcing is at your own risk during this phase. You can support the democratization of digital fabrication—and ensure you get the exact hardware we use in the lab—by purchasing your components directly from our [MY-Machines Official Store](https://www.my-machines.com).
+
 <div class="grid cards" markdown>
 
 -   :fontawesome-solid-book-open:{ .lg .middle } __Instruction Manual__

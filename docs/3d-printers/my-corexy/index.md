@@ -7,6 +7,13 @@
 ## Welcome to the official documentation for the My CoreXY 3D Printer.
 Here you will find all the information you need to set up, use, and troubleshoot your 3D printer.
 
+!!! warning "Work In Progress (WIP) - Active Development"
+    **The MY-CoreXY is currently under rigorous high-speed testing.**
+    
+    Developing a robust, high-performance CoreXY machine means continuous tweaking of kinematics and toolhead designs. The current documentation represents development snapshots. 
+    
+    *Ready to push the limits?* Avoid the frustration of incompatible third-party parts. Support our Maker Education mission and get "Early Adopter" electronics and mechanical hardware straight from the [MY-Machines Official Store](https://www.my-machines.com).
+
 <div class="grid cards" markdown>
 
 -   :fontawesome-solid-book-open:{ .lg .middle } __Instruction Manual__

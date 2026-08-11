@@ -104,19 +104,18 @@ extra:
     provider: google
     property: G-B2Y6R89EJ9
     feedback:
-      title: Did this page help?
+      title: Did this page help you?
       ratings:
         - icon: material/thumb-up-outline
-          name: Did this page help
+          name: This page was helpful
           data: 1
           note: >-
-            Thanks for the feedback!
+            Awesome! 🚀 Glad it helped. Got a minute? Support this Open Source project by leaving a quick review via our <a href="https://my-machines.com/sucesso-docs?pagina={url}" target="_blank" rel="noopener">Success Form</a>.
         - icon: material/thumb-down-outline
           name: This page can be improved
           data: 0
           note: >-
-            Thanks for the feedback! Help us improve this page
-            using our <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_kuzfD_Tbez4b-jqxr0dPAsu4QGP72imTuG0AKUAi-gQKLg/viewform?usp=pp_url&entry.756152555={url}" target="_blank" rel="noopener">feedback form</a>.
+            Thanks for the heads-up! Spot a bug or a confusing step? Help us fix it quickly via our <a href="https://my-machines.com/erro-docs?pagina={url}" target="_blank" rel="noopener">Bug Report Form</a>.
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css

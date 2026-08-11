@@ -17,7 +17,7 @@ Whether you are slicing through thick acrylics with a CO2 laser, marking industr
     - [:fontawesome-solid-shield-halved: Safety Guidelines](my-co2laser/safety/safety-instructions.md)
     - [:fontawesome-solid-laptop-code: Software & LightBurn](my-co2laser/software/laser-grbl/install-software.md)
 
--   ![My-Fiber Laser](/assets/images/image-placeholder.webp)
+-   ![My-Fiber Laser](/assets/images/fiberlaser.webp)
 
     ---
 
@@ -28,7 +28,7 @@ Whether you are slicing through thick acrylics with a CO2 laser, marking industr
     - [:fontawesome-solid-laptop-code: Software Configuration](my-fiberlaser/software/index.md)
     - [:fontawesome-solid-wrench: Troubleshooting](my-fiberlaser/troubleshooting/index.md)
 
--   ![My-Laser (Diode)](/assets/images/image-placeholder.webp)
+-   ![My-Laser (Diode)](/assets/images/diode.webp)
 
     ---
 
